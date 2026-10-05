@@ -1,6 +1,6 @@
 # _first-submission_
 
-Live demo: [GH-pages](https://object-ions.github.io/first-submission/)
+Live demo: [GH-pages](https://switchcasestudio.github.io/first-submission/)
 
 #### By **Moshe Atia Poston**
 
